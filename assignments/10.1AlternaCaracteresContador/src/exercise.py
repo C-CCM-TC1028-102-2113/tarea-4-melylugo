@@ -4,7 +4,6 @@ def main():
     num=int(input())
 
     valor=num
-    cont=0
 
     for valor in range (1,valor,2):
             print (str(valor)+"-#")
