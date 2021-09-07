@@ -14,13 +14,11 @@ def main():
         print (str(sum))
         break
 
-    while index==0:
+    if index==0:
         print("0")
-        break
 
-    while index==1:
+    elif index==1:
         print ("1")
-        break
 
     pass
 
