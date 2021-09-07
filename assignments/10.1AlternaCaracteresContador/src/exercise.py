@@ -1,6 +1,6 @@
 def main():
     #escribe tu código abajo de esta línea
-    num=int(input())
+    num=int(input("ingresa un numero"))
 
     valor=num
 
